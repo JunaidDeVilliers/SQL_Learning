@@ -1,9 +1,0 @@
-Connection name:                Practice
-Connect using:                  Server and Port
-Server address:                 localhost
-Port:                           33060
-Database:                       training
-Username:                       root
-Password mode:                  Save as plaintext in settings
-Authentication protocol:        xprotocol
-SSL:                            Disabled

@@ -20,8 +20,3 @@ I'll be updating this repository regularly with:
 - New SQL scripts and queries
 - Notes on key concepts
 - Challenges and solutions
-
-## 💡 How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo.git
