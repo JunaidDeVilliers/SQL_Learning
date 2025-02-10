@@ -1,1 +1,3 @@
-SELECT * FROM clothes;
+USE myDB2;
+
+SELECT * FROM transactions;
