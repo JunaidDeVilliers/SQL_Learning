@@ -1,3 +1,3 @@
 USE myDB2;
 
-SELECT * FROM transactions;
+SELECT * FROM customers;
