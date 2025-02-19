@@ -1,3 +1,4 @@
-USE myDB2;
+INSERT INTO customers
+VALUES(6, "Charles", "Harper", NULL, "charlie@gmail.com");
 
-SELECT * FROM customers;
+SELECT * FROM customer_emails
