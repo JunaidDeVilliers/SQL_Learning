@@ -1,1 +1,1 @@
-SHOW INDEXES FROM customers
+SELECT COUNT(*) FROM employees;
